@@ -1,4 +1,4 @@
-package seminars.second.hw;
+package hw2;
 
 public class Main {
 
